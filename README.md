@@ -28,11 +28,8 @@ CyberResolve is an AI-driven legal assistant that helps users query and retrieve
    git clone https://github.com/your-repo/cyberresolve.git
    cd cyberresolve
    ```
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Set up your Mistral API key:
+
+2. Set up your Mistral API key:
    ```sh
    export MISTRAL_API_KEY="your_api_key_here"
    ```
